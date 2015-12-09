@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=19:A1:4C:E8:02:E9:A1:62:B4:B9:C0:78:29:04:1A:D8:CB:66:A2:C0%3Bcom.spentas.javad.sharemylocation
+
+    You can also add your credentials to an existing key, using this line:
+    19:A1:4C:E8:02:E9:A1:62:B4:B9:C0:78:29:04:1A:D8:CB:66:A2:C0;com.spentas.javad.sharemylocation
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        YOUR_KEY_HERE
+    </string>
+</resources>

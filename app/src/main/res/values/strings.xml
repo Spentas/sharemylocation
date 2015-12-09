@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">share my location</string>
+    <string name="title_activity_maps">Share My Location</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">
+            1646388738920557
+        </string>
+</resources>
